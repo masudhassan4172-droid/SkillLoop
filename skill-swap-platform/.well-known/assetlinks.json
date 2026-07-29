@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.masudhassan.skillloop",
+        "sha256_cert_fingerprints": ["1A:42:F2:EA:A0:11:C2:8E:5D:F2:3C:BA:E8:7F:47:C4:71:E6:81:41:AD:42:DA:68:39:24:2B:8D:C4:17:F4:CC"]
+      }
+    }]
